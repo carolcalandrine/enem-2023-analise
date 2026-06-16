@@ -89,27 +89,21 @@ O dashboard foi construído com **3 páginas temáticas**:
 > O dashboard completo está disponível em [`dashboard/enem_2023.pdf`](dashboard/enem_2023.pdf)
 
 **Página 1 — Visão Geral**
-![Visão Geral](prints/pagina1.png)
+![Visão Geral](dashboard/visao_geral.png)
 
 **Página 2 — Fatores Socioeconômicos**
-![Fatores Socioeconômicos](prints/pagina2.png)
+![Fatores Socioeconômicos](dashboard/fatores_socioeconomicos.png)
 
 **Página 3 — Desempenho Acadêmico**
-![Desempenho Acadêmico](prints/pagina3.png)
+![Desempenho Acadêmico](dashboard/desempenho_academico.png)
 
 ---
 
-## 🗃️ Fonte dos dados
+## Fonte dos dados
 
 - **INEP** — Microdados do ENEM 2023
 - 🔗 [Download oficial](https://download.inep.gov.br/microdados/microdados_enem_2023.zip)
 - **FGV Social** — Classificação de classes sociais por faixa de renda
-
----
-
-## 👩‍💻 Autora
-
-Desenvolvido como projeto de portfólio em **SQL e Power BI**.
 
 ---
 
