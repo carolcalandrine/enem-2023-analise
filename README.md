@@ -103,7 +103,6 @@ O dashboard foi construído com **3 páginas temáticas**:
 
 - **INEP** — Microdados do ENEM 2023
 - 🔗 [Download oficial](https://download.inep.gov.br/microdados/microdados_enem_2023.zip)
-- **FGV Social** — Classificação de classes sociais por faixa de renda
 
 ---
 
